@@ -1,6 +1,5 @@
- {
-         "version": 1,
-         "enabled": true,
-         "message": "Bem-vindo ao Visualizador Automático PRO! Clique em 'Ver Benefícios' para
-     saber mais sobre a versão PRO."
-       }
+{
+             "version": 1,
+             "enabled": true,
+             "message": "Bem-vindo ao Visualizador PRO! Novas funcionalidades em breve."
+           }
