@@ -4,14 +4,14 @@
        "ad_slots": [
          {
            "id": "ad_slot_1",
-           "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio1_dark.png",
-           "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio1_light.png",
+           "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio1_dark.png",
+           "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio1_light.png",
            "target_url": "https://www.google.com"
         },
         {
           "id": "ad_slot_2",
-          "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio2_dark.png",
-          "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio2_light.png",
+          "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio2_dark.png",
+          "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio2_light.png",
           "target_url": "https://www.youtube.com"
         }
       ]
