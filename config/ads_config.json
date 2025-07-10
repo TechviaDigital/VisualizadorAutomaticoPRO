@@ -10,7 +10,7 @@
         },
         {
           "id": "ad_slot_2",
-          "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio2_dark.gif",
+          "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio2_dark.png",
           "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/main/config/img/anuncio2_light.png",
           "target_url": "https://www.youtube.com"
         }
