@@ -1,7 +1,7 @@
 {
     "backgrounds": {
-        "dark_theme_url": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/fundos/dark_theme.jpg",
-        "light_theme_url": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/fundos/light_theme.jpg"
+        "dark_theme_url": "https://raw.githubusercontent.com/TechviaDigital/VisualizadorAutomaticoPRO/refs/heads/main/fundos/dark_theme.jpg",
+        "light_theme_url": "https://raw.githubusercontent.com/TechviaDigital/VisualizadorAutomaticoPRO/refs/heads/main/fundos/light_theme.jpg"
     },
     "version": 4
 }
