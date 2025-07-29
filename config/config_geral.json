@@ -1,1 +1,23 @@
-
+ {
+       "version": 1.0,
+       "backgrounds": {
+         "dark_theme_url": "URL_DO_BACKGROUND_DARK_AQUI",
+         "light_theme_url": "URL_DO_BACKGROUND_LIGHT_AQUI"
+       },
+       "banners": {
+         "dark_theme_url": "URL_DO_BANNER_GIF_DARK_AQUI",
+         "light_theme_url": "URL_DO_BANNER_GIF_LIGHT_AQUI"
+      },
+      "ad_slots": [
+        {
+          "id": "ad_slot_1",
+          "image_url_dark": "URL_DA_IMAGEM_ANUNCIO_DARK_AQUI",
+          "image_url_light": "URL_DA_IMAGEM_ANUNCIO_LIGHT_AQUI",
+          "target_url": "URL_DE_DESTINO_DO_CLIQUE_NO_ANUNCIO_AQUI"
+        }
+      ],
+      "scrolling_banner": {
+        "text": "Bem-vindo ao Visualizador Automático PRO! Confira as novidades e promoções.",
+        "speed": 5
+      }
+    }
