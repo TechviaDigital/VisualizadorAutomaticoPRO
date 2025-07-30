@@ -14,6 +14,12 @@
           "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio1_dark.png",
           "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio1_light.png",
           "target_url": "https://santana-vendas.herospark.co/p/forest-joy-page"
+        }, 
+       {
+          "id": "ad_slot_2",
+          "image_url_dark": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio2_dark.png",
+          "image_url_light": "https://raw.githubusercontent.com/OldackSantana/VisualizadorAutomaticoPRO/refs/heads/main/config/img/anuncio2_light.png",
+          "target_url": "https://www.youtube.com"
         }
       ],
       "scrolling_banner": {
