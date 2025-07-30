@@ -1,5 +1,5 @@
  {
-       "version": 1.3,
+       "version": 2.0,
        "backgrounds": {
          "dark_theme_url": "https://raw.githubusercontent.com/TechviaDigital/VisualizadorAutomaticoPRO/refs/heads/main/fundos/dark_theme.jpg",
          "light_theme_url": "https://raw.githubusercontent.com/TechviaDigital/VisualizadorAutomaticoPRO/refs/heads/main/fundos/light_theme.jpg"
